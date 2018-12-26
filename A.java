@@ -14,5 +14,7 @@ class HelloWorl
  class A {
  public static void main(String args[]){
      System.out.println("Hello ffjghgWorld");
+System.out.println("Hello ffjghgWorld");
+System.out.println("Hello ffjghgWorld");
  }
 }
