@@ -11,7 +11,7 @@ class HelloWorl
     } 
 } */
 
- class A {
+ class maven_helloworld {
  public static void main(String args[]){
      System.out.println("Hello ffjghgWorld");
 System.out.println("Hello ffjghgWorld");
